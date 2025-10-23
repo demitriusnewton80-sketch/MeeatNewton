@@ -1,0 +1,5 @@
+{
+  "name": "Sportsbook Live",
+  "description": "A dynamic and visually-rich public sportsbook application featuring simulated live game streams, real-time score updates, betting odds, and an integrated sports radio broadcast.",
+  "requestFramePermissions": []
+}
